@@ -1,0 +1,21 @@
+{
+  "name": "LIS Materials Hub",
+  "short_name": "LIS Hub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e224f3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "quyum.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "quyum.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
